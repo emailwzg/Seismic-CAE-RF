@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/686390241.svg)](https://zenodo.org/badge/latestdoi/686390241)
+
 # Seismic-CAE-RF
 Machine learning workflow of convolutional autoencoder and random forest to identify seismic facies and predict sandstone thickness distribution.
 
